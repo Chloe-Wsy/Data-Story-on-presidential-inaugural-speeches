@@ -1,0 +1,2 @@
+# Data-Story-on-presidential-inaugural-speeches
+In this project, I will explore the texts of U. S. presidents' inaugrual speeches, from that of George Washington to that of Donald Trump.  Explore the texts using tools from text mining and natural language processing such as sentiment analysis, topic modeling, etc, all available in R and write a small story about inaugural speeches of U.S. presidents on interesting trends and patterns identified by my analysis. techniques.
